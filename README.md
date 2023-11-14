@@ -1,7 +1,7 @@
 # react-things
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-choi-elf-maerz/Image-Generation-App%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-## 🛠 Tech Stack 🛠 2023.10
+## 🛠 Tech Stack 🛠 2023.11
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
